@@ -1,0 +1,2 @@
+# altyaziduzenleme
+.srt duzenleme
